@@ -1,0 +1,8 @@
+{
+  "name": "hmd-docs-user-guide",
+  "description": "User Guide for NeuronSphere Framework and Tools",
+  "build": {},
+  "project_type": {
+    "name": "Documentation"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "_org": "hmd",
+  "_repo_type": "docs-",
+  "short_name": "user-guide",
+  "project_name": "hmd-docs-user-guide",
+  "repo_name": "hmd-docs-user-guide",
+  "description": "User Guide for NeuronSphere Framework and Tools",
+  "_author": "Alex Burgoon",
+  "_author_email": "alex.burgoon@hmdlabs.io",
+  "_template": "/tmp/tmp_a_oz2vx/hmd_cli_repo",
+  "_output_dir": "/home/aburg/nspublic/projects"
+}
