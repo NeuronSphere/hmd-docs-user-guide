@@ -7,7 +7,7 @@ Welcome to hmd-docs-user-guide's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   rst_cheat_sheet
+   install_neuronsphere
 
 
 Indices and tables
